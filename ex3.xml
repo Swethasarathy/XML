@@ -1,0 +1,54 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "ex3_stylesheet.xsl"?>
+<class>
+<Book Book_ID = "EC23145">
+<Title>Analog and Digital Communication</Title>
+<Author>Janardhan S Chitode</Author>
+<Publication>Technical</Publication>
+<Price>Rs.450</Price>
+</Book>
+
+<Book Book_ID = "IT45217">
+<Title>Cloud Computing</Title>
+<Author>Sonali Jadhav</Author>
+<Publication>Magnum</Publication>
+<Price>Rs.700</Price>
+</Book>
+
+<Book Book_ID = "CS78156">
+<Title>Computer Networks</Title>
+<Author>I.A.Dhotre</Author>
+<Publication>Technical</Publication>
+<Price>Rs.850</Price>
+</Book>
+
+<Book Book_ID = "CY33597">
+<Title>Material Science</Title>
+<Author>S.S.Dhara</Author>
+<Publication>S.Chand</Publication>
+<Price>Rs.300</Price>
+</Book>
+
+<Book Book_ID = "MA11759">
+<Title>Transforms and Partial Differential Equations</Title>
+<Author>G.Balaji</Author>
+<Publication>Balaji</Publication>
+<Price>Rs.800</Price>
+</Book>
+
+
+<Book Book_ID = "CS71453">
+<Title>Data Warehousing and Data Mining</Title>
+<Author>Varsha Bhosle</Author>
+<Publication>Magnum</Publication>
+<Price>Rs.350</Price>
+</Book>
+
+
+<Book Book_ID = "CE82135">
+<Title>Foundation Engineering</Title>
+<Author>Arun Kumar Jain</Author>
+<Publication>S.Chand</Publication>
+<Price>Rs.700</Price>
+</Book>
+</class>

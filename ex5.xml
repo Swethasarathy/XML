@@ -1,0 +1,59 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "ex5_style.xsl"?>
+<report>
+<student RegNo = "211716205001">
+<Name>Agatha Regina</Name>
+<Year>III</Year>
+<Dept>IT</Dept>
+<CGPA>7.5</CGPA>
+</student>
+
+<student RegNo = "211716207028">
+<Name>Meenakshi</Name>
+<Year>III</Year>
+<Dept>CSE</Dept>
+<CGPA>7.8</CGPA>
+</student>
+
+<student RegNo = "211716203045">
+<Name>Saranya</Name>
+<Year>III</Year>
+<Dept>ECE</Dept>
+<CGPA>8.0</CGPA>
+</student>
+
+<student RegNo = "211716202036">
+<Name>Sooriya</Name>
+<Year>III</Year>
+<Dept>MECH</Dept>
+<CGPA>7.9</CGPA>
+</student>
+
+<student RegNo = "211716205055">
+<Name>Swetha</Name>
+<Year>III</Year>
+<Dept>IT</Dept>
+<CGPA>7.8</CGPA>
+</student>
+
+<student RegNo = "211716207049">
+<Name>Shazia Farheen</Name>
+<Year>III</Year>
+<Dept>CSE</Dept>
+<CGPA>7.0</CGPA>
+</student>
+
+<student RegNo ="211716205057">
+<Name>Yoga Sri</Name>
+<Year>III</Year>
+<Dept>IT</Dept>
+<CGPA>7.6</CGPA>
+</student>
+
+<student RegNo = "211716203052">
+<Name>Srinidhi</Name>
+<Year>III</Year>
+<Dept>ECE</Dept>
+<CGPA>7.5</CGPA>
+</student>
+</report>

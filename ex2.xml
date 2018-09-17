@@ -1,0 +1,10 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/css" href = "ex2_style.css"?>
+<!DOCTYPE student SYSTEM "ex2_doc.dtd">
+<student>
+<firstname>First Name : Swetha </firstname>
+<lastname>Last Name : Parthasarathy  </lastname>
+<year>Year : III  </year>
+<dept>Dept : IT </dept>
+<email>Email ID : swethasheela98@gmail.com  </email>
+</student>

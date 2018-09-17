@@ -1,0 +1,15 @@
+student
+{
+
+}
+firstname,lastname,dept,year,email
+{
+font-family : "Cambria, Calibri, Serif";
+font-size : 18px;
+color : blue;
+display : block;
+border-style : double;
+border-color : black;
+border-width : 2px;
+margin-right : 1100px;
+}
